@@ -40,6 +40,9 @@
 - [<b> Tutorials (Code) </b>](3-Tutorials/3.2-Code/3.2-code.md)
   - [Short Tips and Tricks](3-Tutorials/3.2-Code/tips_tricks.md)
 
+- [<b> Tutorials (Infastructure) </b>](3-Tutorials/3.3-Infrastructure/3.3-infrastructure.md)
+  - [Setup Eduroam Access](3-Tutorials/3.3-Infrastructure/setup_eduroam.md)
+
 
 <hr>
 

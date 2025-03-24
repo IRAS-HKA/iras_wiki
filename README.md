@@ -1,8 +1,7 @@
 # Wiki of the Institute for Robotics and Autonomous Systems (IRAS) 
 
+## Student Section
 - [<b>Introductions</b>](1-Guidelines_for_Students/1.4-Introductions/1.4-introductions.md)
-  - [How to Introduce new Students (for Staffmembers only)](1-Guidelines_for_Students/1.4-Introductions/introductions_for_new_students.md)
-  - [How to Checkout Students (for Staffmembers only)](1-Guidelines_for_Students/1.4-Introductions/student_checkout_guideline.md)
   - [Software requirements](1-Guidelines_for_Students/1.4-Introductions/software_requirements.md)
   - [Docker instructions](1-Guidelines_for_Students/1.4-Introductions/docker_instructions.md)
   - [Git instructions](1-Guidelines_for_Students/1.4-Introductions/git_instructions.md)
@@ -34,43 +33,20 @@
 
 <hr>
 
-- [<b>Tutorials (Software) </b>](3-Tutorials/3.1-Software/3.1-software.md)
-    - [Managing literature using Obsidian and Zotero](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/obsidian-zotero-research-workflow)
-
-- [<b> Tutorials (Code) </b>](3-Tutorials/3.2-Code/3.2-code.md)
+- <b>Tutorials</b>
+  - [Managing literature using Obsidian and Zotero](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/obsidian-zotero-research-workflow)
   - [Short Tips and Tricks](3-Tutorials/3.2-Code/tips_tricks.md)
-
-- [<b> Tutorials (Infastructure) </b>](3-Tutorials/3.3-Infrastructure/3.3-infrastructure.md)
   - [Setup Eduroam Access](3-Tutorials/3.3-Infrastructure/setup_eduroam.md)
 
 
 <hr>
 
+## Staff Section
+- **Workflows**
+  - [HKA/CAR Workflows](4-Guidelines_for_Staff/hka_workflows.md)
+  - [How to Introduce new Students](4-Guidelines_for_Staff/introductions_for_new_students.md)
+  - [How to Checkout Students](4-Guidelines_for_Staff/student_checkout_guideline.md)
 
-## How to use this Wiki:
-
-### Requirements
-- All staff and students are in Teams `iRAS students`
-- All staff and students have access to the GitLab `Wiki` repo
-
-### Basic Rules
-1. Documents (pdf, doc, ppt, zip, ...) always in Teams
-2. Text instructions always in Wiki (never as PDF, Word, PPT)
-3. Code always in GitLab
-
-### GitLab contact person
-  - `IRAS`: Moritz
-  - `Common`: Andreas
-  - `Research Projects`: Moritz
-  - `Student Project`: Philipp
-
-### GitLab Rights
-- Students: 	
-  - "Reporter" in `Common`
-  - "Developer" in own thesis project
-
-- Staff:
-  - "Reporter" in `IRAS` group
-  - "Maintainer" in `Common`
-  - "Maintainer" in `Student projects`
-  - "Owner" in own research project
+- **Infrastructure**
+  - [Setup Eduroam Access](3-Tutorials/3.3-Infrastructure/setup_eduroam.md)
+  - [Wiki Organisation](4-Guidelines_for_Staff/wiki_organisation.md)

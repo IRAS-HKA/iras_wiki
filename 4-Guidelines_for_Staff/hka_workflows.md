@@ -50,11 +50,11 @@
 1. [RZ-Flyer](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDI4OTA5ODEsImV4cCI6MTc0Mjk4MDk4MSwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX0JFLVJaX0ZseWVyX1plcnRpZmlrYXRlXzA3MjAyNC5wZGYiLCJwYWdlIjo0ODI0fQ.EvXX7a-vQ3gl2t0OwhrfJ6Dc1Ht9N1eIyg7GThNmCIk/HKA_BE-RZ_Flyer_Zertifikate_072024.pdf)
 2. Anmeldung mit RZ-Zugangsdaten an https://cert-manager.com/customer/DFN/idp/clientgeant via Shibboleth IDP. Kein Papier mehr nötig!
 3. Wahl der Parameter
-   (a) Certificate Profile := "GEANT Personal Certificate",
-   (b) Gültigkeitsdauer:= 365 oder 720 Tage,
-   (c1) Generierungsmethode:="Key Generation",
-   (c2) Key-Type := "RSA-4096"
-4. Abholen des Zertifikats via Download direkt im Browser. Import wie gewohnt.
+   - Certificate Profile := "GEANT Personal Certificate"
+   - Gültigkeitsdauer:= 365 oder 720 Tage
+   - Generierungsmethode:="Key Generation"
+   - Key-Type := "RSA-4096"
+5. Abholen des Zertifikats via Download direkt im Browser. Import wie gewohnt.
 
 ## BW Sync&Share Registrierung
 1. Jeder Mitarbeiter erhält 50 GB Speicherplatz vom Land. Der Desktop-Client ist bereits auf den HKA-Laptops installiert, sodass wir bequem Zotero-PDFs synchronisieren können - ohne Premium-Account. Registrierung erfolgt unter https://bwidm.scc.kit.edu/welcome/index.xhtml

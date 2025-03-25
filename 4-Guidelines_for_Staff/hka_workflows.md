@@ -9,10 +9,10 @@
 
 ## EBI Schlüsselausgabe
 1. PDF herunterladen und ausfüllen https://www.h-ka.de/ticket#c72431
-2. Sicherheitsunterweisung durchführen und unterschreiben
+2. nur für Studis: Sicherheitsunterweisung durchführen und unterschreiben
 3. Christian Wurll unterschreiben
 4. Antragssteller unterschreiben
-5. Senden an: service.ebi@h-ka.de
+5. Antragssteller senden an: service.ebi@h-ka.de
 6. Warten auf Email Aufforderung
 7. Schlüssel abholen
 
@@ -40,7 +40,7 @@
 ## Vertrauensarbeitszeit beantragen
 1. [PDF](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDI4OTE4NDQsImV4cCI6MTc0Mjk4MTg0NCwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX2ludGVybl9NaXRhcmJlaXRlci9IS0FfVlctUEVfQW50cmFnX1ZBWl8yMDIyLTExLTE0LnBkZiIsInBhZ2UiOjMxMjF9.WA2G4qkEG-7uaZd9buUVdzOII3S3FbeAUmEX21gSDBk/HKA_VW-PE_Antrag_VAZ_2022-11-14.pdf) herunterladen und ausfüllen 
 2. von Projektleiter unterschreiben lassen
-3. 
+3. an CAR Personalverwaltung schicken (für CAR-Projekte: Frau Großardt) am besten per E-Mail und per Hauspost
 
 ## E-Mail Signatur erstellen
 1. [Vorlage für E-Mail-Signatur](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-corporate-design-corporate-identity?ADMCMD_simUser=1646#c48591) kopieren und mit persönlichen Angaben überschreiben
@@ -71,7 +71,7 @@ Bitte die App vorher beenden (durch weg wischen in der Übersicht der aktiven Ap
 
 ## Urlaubsantrag
 1. Antrag in [SmartTime](https://ze01.hs-karlsruhe.de/SmartTime/#/security/loginInput.action?h=1633343827654) stellen
-2. Christian muss bestätigen oder es wird nach 1 Woche automatisch genehmigt
+2. Projektleiter (Christian oder Björn) muss bestätigen oder es wird nach 1 Woche automatisch genehmigt
 
 ## CAR Bestellungen
 - Ab 500 € ein Angebot

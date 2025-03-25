@@ -9,10 +9,10 @@
 
 ## EBI Schlüsselausgabe
 1. PDF herunterladen und ausfüllen https://www.h-ka.de/ticket#c72431
-2. nur für Studis: Sicherheitsunterweisung durchführen und unterschreiben
-3. Christian Wurll unterschreiben
-4. Antragssteller unterschreiben
-5. Antragssteller senden an: service.ebi@h-ka.de
+2. nur für Studis: [allgmeine Sicherheitsunterweisung](https://ilias.h-ka.de/ilias.php?ref_id=596300&cmd=infoScreen&cmdClass=ilobjtestgui&cmdNode=y2:sk&baseClass=ilrepositorygui&ref_id=596300) auf ILIAS durchführen und für Studis, die im Labor arbeiten zusätzlich den [spezifischen Teil für Robotik](https://ilias.h-ka.de/ilias.php?ref_id=601507&cmd=view&cmdClass=ilrepositorygui&cmdNode=y2&baseClass=ilrepositorygui)
+3. Unterweisender und unterwiesene Person auf Formular unterschreiben, dass Sicherheitsunterweisung durchgeführt wurde 
+4. Christian Wurll unterschreiben
+5. Antragssteller sendet Formular an: service.ebi@h-ka.de
 6. Warten auf Email Aufforderung
 7. Schlüssel abholen
 

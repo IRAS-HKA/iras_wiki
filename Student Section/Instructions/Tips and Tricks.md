@@ -1,0 +1,1 @@
+1. Averaging Rotations: Use Quaternions and [this](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.transform.Rotation.mean.html) function.

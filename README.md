@@ -1,52 +1,41 @@
 # Wiki of the Institute for Robotics and Autonomous Systems (IRAS) 
 
 ## Student Section
-- [<b>Introductions</b>](1-Guidelines_for_Students/1.4-Introductions/1.4-introductions.md)
-  - [Software requirements](1-Guidelines_for_Students/1.4-Introductions/software_requirements.md)
-  - [Docker instructions](1-Guidelines_for_Students/1.4-Introductions/docker_instructions.md)
-  - [Git instructions](1-Guidelines_for_Students/1.4-Introductions/git_instructions.md)
-  - [Markdown instructions](1-Guidelines_for_Students/1.4-Introductions/markdown_instructions.md)
-  - [Latex instructions](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/thesis_template)
-
-<hr>
-
-- [<b>Working with Code</b>](1-Guidelines_for_Students/1.5-Software_Guidelines/1.5-software_guidelines.md)
-  - [Code Guidelines](1-Guidelines_for_Students/1.5-Software_Guidelines/code_guidelines.md)
-  - [Writing Clean Code](1-Guidelines_for_Students/1.5-Software_Guidelines/clean_code.md)
-  - [Code Documentation Guidelines](1-Guidelines_for_Students/1.5-Software_Guidelines/documentation_guidelines.md)
-  - [ROS2 package structure](1-Guidelines_for_Students/1.5-Software_Guidelines/ros2_package_structure.md)
-  - [ROS2 in VSCode](1-Guidelines_for_Students/1.5-Software_Guidelines/ros2_in_visualstudio.md)
-  - [Setup VSCode](1-Guidelines_for_Students/1.5-Software_Guidelines/vs_code_setup.md)
-  - Tutorials
-
-<hr>
-
-- [<b>Additional Guidelines</b>](1-Guidelines_for_Students/1.6-General_Guidelines/1.6-general_guidelines.md)
-
-  - Teams [file naming convention](1-Guidelines_for_Students/1.6-General_Guidelines/folder_structure_in_microsoft_teams.md)
-  - Teams [folder structure for projects](1-Guidelines_for_Students/1.6-General_Guidelines/filenames_in_microsoft_teams.md)
-  - [Collaboration platforms](1-Guidelines_for_Students/1.6-General_Guidelines/collaboration_platforms.md)
-  - [Using the workshop](1-Guidelines_for_Students/1.7-Workshop/1.7-workshop.md)
-    - [General Information](1-Guidelines_for_Students/1.7-Workshop/workshop_guidelines.md)
-    - [ERP System](1-Guidelines_for_Students/1.7-Workshop/erp.md)
-    - [3D Printing](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/print3d)
-
-<hr>
-
-- <b>Tutorials</b>
+- **Instructions**
+  - [Docker](<Student Section/Instructions/docker_instructions.md>)
+  - [Docker ROS2 Template](https://github.com/IRAS-HKA/ROS_2_Docker_Template)
+  - [Git](<Student Section/Instructions/git_instructions.md>)
+  - [Markdown](<Student Section/Instructions/markdown_instructions.md>)
+  - [Latex Template](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/thesis_template)
   - [Managing literature using Obsidian and Zotero](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/obsidian-zotero-research-workflow)
-  - [Short Tips and Tricks](3-Tutorials/3.2-Code/tips_tricks.md)
-  - [Setup Eduroam Access](3-Tutorials/3.3-Infrastructure/setup_eduroam.md)
+  - [Tips and Tricks](<Student Section/Instructions/Tips and Tricks.md>)
 
+---
 
-<hr>
+- **Software Guidelines**
+  - [Writing Clean Code](<Student Section/Software Guidelines/clean_code.md>)
+  - [Code Guidelines](<Student Section/Software Guidelines/code_guidelines.md>)
+  - [Code Documentation Guidelines](<Student Section/Software Guidelines/documentation_guidelines.md>)
+  - [ROS2 package structure](<Student Section/Software Guidelines/ros2_package_structure.md>)
+  - [ROS2 in VSCode](<Student Section/Software Guidelines/ros2_in_visualstudio.md>)
+  - [Setup VSCode](<Student Section/Software Guidelines/vs_code_setup.md>)
+
+---
+
+- **Workshop**
+  - [General Information](<Student Section/Workshop/Workshop Guidelines.md>)
+  - [ERP System](<Student Section/Workshop/Hyreka Instructions.md>)
+  - [3D Printing](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/print3d)
+
+---
 
 ## Staff Section
-- **Workflows**
-  - [HKA/CAR Workflows](4-Guidelines_for_Staff/hka_workflows.md)
-  - [How to Introduce new Students](4-Guidelines_for_Staff/introductions_for_new_students.md)
-  - [How to Checkout Students](4-Guidelines_for_Staff/student_checkout_guideline.md)
+- **Passierscheine A38-Z99**
+  - [Workflows](<Staff Section/Passierscheine A38-Z99/Workflows.md>)
+  - [IT-Infrastructure](<Staff Section/Passierscheine A38-Z99/IT-Infrastructure.md>)
 
-- **Infrastructure**
-  - [Setup Eduroam Access](3-Tutorials/3.3-Infrastructure/setup_eduroam.md)
-  - [Wiki Organisation](4-Guidelines_for_Staff/wiki_organisation.md)
+- **Onboarding**
+  - [Staff Onboarding](<Staff Section/Onboarding/Staff Onboarding.md>)
+  - [Staff one-time Setup](<Staff Section/Onboarding/Staff one-time Setup.md>)
+  - [Student Onboarding](<Staff Section/Onboarding/Student Onboarding.md>)
+  - [Student Checkout](<Staff Section/Onboarding/Student Checkout.md>)

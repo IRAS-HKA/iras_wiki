@@ -45,8 +45,8 @@
 5. Studis laden die unterschriebene Ausschreibung selber in ILIAS hoch und melden sich zum entsprechenden Projekt Code an.
 
 ## Dienstreiseantrag
-Alle Dokumente der Personalabteilung [ILIAS]([https://ilias.h-ka.de/ilias.php?ref_id=833927&cmd=render&cmdClass=ilrepositorygui&cmdNode=y0&baseClass=ilrepositorygui](https://www.h-ka.de/intern/mitarbeitende/organisieren/dokumente-formulare/formulare-vorlagen))
-1. Antrag zur Genehmigung der Dienstreise herunterladen und ausfüllen [ILIAS]([https://ilias.h-ka.de/goto.php?target=file_853307_download&client_id=HSKA](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDMwODIwODksImV4cCI6MTc0MzE3MjA4OSwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX2ludGVybl9NaXRhcmJlaXRlci9IS0FfVlctUEVfRm9ybXVsYXJfR2VuZWhtaWd1bmdfRGllbnN0Rm9ydGJpbGR1bmdzcmVpc2VfRmVicnVhcl8yMDIyX2VsZWt0cm9uaXNjaF9hdXNmdWVsbGJhci5wZGYiLCJwYWdlIjozMTIxfQ.aJNI4zrKUypz0OBpLnxdD37Pw4V-ReP1hJLDGfGOMTk/HKA_VW-PE_Formular_Genehmigung_DienstFortbildungsreise_Februar_2022_elektronisch_ausfuellbar.pdf))
+Alle Dokumente der Personalabteilung [ILIAS](https://www.h-ka.de/intern/mitarbeitende/organisieren/dokumente-formulare/formulare-vorlagen)
+1. Antrag zur Genehmigung der Dienstreise herunterladen und ausfüllen [ILIAS](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDMwODIwODksImV4cCI6MTc0MzE3MjA4OSwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX2ludGVybl9NaXRhcmJlaXRlci9IS0FfVlctUEVfRm9ybXVsYXJfR2VuZWhtaWd1bmdfRGllbnN0Rm9ydGJpbGR1bmdzcmVpc2VfRmVicnVhcl8yMDIyX2VsZWt0cm9uaXNjaF9hdXNmdWVsbGJhci5wZGYiLCJwYWdlIjozMTIxfQ.aJNI4zrKUypz0OBpLnxdD37Pw4V-ReP1hJLDGfGOMTk/HKA_VW-PE_Formular_Genehmigung_DienstFortbildungsreise_Februar_2022_elektronisch_ausfuellbar.pdf)
 	1. Kostenvoranschlag eintragen (wichtig)
 	2. Unterschrift reicht digital
 	3. Reise genehmigt unterschreiben von Christian/Björn

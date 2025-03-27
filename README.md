@@ -1,4 +1,5 @@
 # Wiki of the Institute for Robotics and Autonomous Systems (IRAS) 
+<img src="iras_logo.png" alt="iras_logo" width="400">  
 
 ## Student Section
 - **Instructions**

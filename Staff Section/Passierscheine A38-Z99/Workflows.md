@@ -45,13 +45,13 @@
 5. Studis laden die unterschriebene Ausschreibung selber in ILIAS hoch und melden sich zum entsprechenden Projekt Code an.
 
 ## Dienstreiseantrag
-Alle Dokumente der Personalabteilung [ILIAS](https://ilias.h-ka.de/ilias.php?ref_id=833927&cmd=render&cmdClass=ilrepositorygui&cmdNode=y0&baseClass=ilrepositorygui)
-1. Antrag zur Genehmigung der Dienstreise herunterladen und ausfüllen [ILIAS](https://ilias.h-ka.de/goto.php?target=file_853307_download&client_id=HSKA)
+Alle Dokumente der Personalabteilung [ILIAS]([https://ilias.h-ka.de/ilias.php?ref_id=833927&cmd=render&cmdClass=ilrepositorygui&cmdNode=y0&baseClass=ilrepositorygui](https://www.h-ka.de/intern/mitarbeitende/organisieren/dokumente-formulare/formulare-vorlagen))
+1. Antrag zur Genehmigung der Dienstreise herunterladen und ausfüllen [ILIAS]([https://ilias.h-ka.de/goto.php?target=file_853307_download&client_id=HSKA](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDMwODIwODksImV4cCI6MTc0MzE3MjA4OSwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX2ludGVybl9NaXRhcmJlaXRlci9IS0FfVlctUEVfRm9ybXVsYXJfR2VuZWhtaWd1bmdfRGllbnN0Rm9ydGJpbGR1bmdzcmVpc2VfRmVicnVhcl8yMDIyX2VsZWt0cm9uaXNjaF9hdXNmdWVsbGJhci5wZGYiLCJwYWdlIjozMTIxfQ.aJNI4zrKUypz0OBpLnxdD37Pw4V-ReP1hJLDGfGOMTk/HKA_VW-PE_Formular_Genehmigung_DienstFortbildungsreise_Februar_2022_elektronisch_ausfuellbar.pdf))
 	1. Kostenvoranschlag eintragen (wichtig)
 	2. Unterschrift reicht digital
 	3. Reise genehmigt unterschreiben von Christian/Björn
 	4. Dann an per Hauspost an CAR Fr. Förderer
-2. Abrechnung der Dienstreise [ILIAS](https://ilias.h-ka.de/goto.php?target=file_833997_download&client_id=HSKA)
+2. Abrechnung der Dienstreise [ILIAS]([https://ilias.h-ka.de/goto.php?target=file_833997_download&client_id=HSKA](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDMwODIwODksImV4cCI6MTc0MzE3MjA4OSwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX2ludGVybl9NaXRhcmJlaXRlci9IS0FfVlctUEVfRm9ybXVsYXJfQWJyZWNobnVuZ19EaWVuc3RGb3J0YmlsZHVuZ3NyZWlzZV8yMDIyX2dlc2NodWV0enQuZG9jIiwicGFnZSI6MzEyMX0.Q8wu00LlJGnhy0QtqgA2JJFdtDDnjrNxLm9cELx0AOQ/HKA_VW-PE_Formular_Abrechnung_DienstFortbildungsreise_2022_geschuetzt.doc))
 	- Dienstreiseabrechnung
 	- Alle Rechnungen
 	- Originaler Dienstreiseantrag

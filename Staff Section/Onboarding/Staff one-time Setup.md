@@ -12,6 +12,13 @@
 2. MS-Teams Lizenz freischalten unter https://signup.microsoft.com/signup?sku=Education
 3. Anmelden in der [Web-Version](https://teams.microsoft.com/) oder [Desktop-App](https://www.microsoft.com/de-de/microsoft-teams/group-chat-software) herunterladen und anmelden
 
+## Zoom Account einrichten
+Anleitung auf [HKA Website Intern](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-it-services-edv/collaboration/faq-zoom#)
+1. Zoom-Lizenz beantragen mittels E-Mail an bb.rz@h-ka.de mit der Angabe, für welchen Hochschul-Account
+2. Zoom-Account wird zeitnah angelegt der HKA E-Mailadresse <vorname.nachname@h-ka.de> zugewiesen
+3. Warten auf E-Mail von der Firma Zoom (informiert über Freischaltung der Zoom-Lizenz)
+4. [Zoom Client](https://zoom.us/download) herunterladen.
+
 ## Intranet Profil vervollständigen
 1. [Login](https://www.h-ka.de/intern/login) auf der Hochschulwebsite. (Der Zugriff erfordert eine Verbindung zum Hochschulnetz)
 2. Oben rechts auf den eigenen Namen klicken, das Dropdown-Menü öffnen und „Profil“ auswählen und ausfüllen.

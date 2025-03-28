@@ -30,11 +30,3 @@ To establish a connection with the Eduroam Wlan network you need the following s
 1. Token ist nach 10 Fehlversuchen gesperrt
 2. [https://mfa.h-ka.de](https://mfa.h-ka.de)
 3. Auf Fehlercounter klicken zum resetten
-
-## HKA Windows Image BWSync&Share Client Nextcloud einrichten
-1. Bei bwsync&share im eingerichteten Standardbrowser einloggen
-2. Nextcloud anwendung öffnen 
-3. "Anmelden"
-4. https://bwsyncandshare.kit.edu/ eingeben 
-5. Im Browserfenster bestätigen und kurz warten
-6. Synchonisierungseinstellungen vornehmen

@@ -62,7 +62,7 @@ Info unter: https://www.zotero.org/support/sync
 4. Der geforderte Benutzername und das Passwort muss über BW Synch&Share generiert werden:
   - Klick auf eigenes Profil (ganz oben rechts) → Einstellungen → Sicherheit (links im Menü) → Geräte & Sitzungen
   - Beliebigen App-Namen eingeben und Neues App-Passwort erstellen, kopieren und bei Zotero-Einstellugen einfügen.
-5. ![Fehler beim Laden des Screenshots]("Staff% Section/Onboarding/Zotero-Einstellungen.png")
+5. ![Fehler beim Laden des Screenshots](Zotero-Einstellungen.png)
    Server prüfen
 
 ## Getränke App

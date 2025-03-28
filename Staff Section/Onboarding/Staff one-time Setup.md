@@ -66,7 +66,7 @@ Info unter: https://www.zotero.org/support/sync
    Klick auf "Server prüfen", warten auf Bestätigung
 
 ## Getränke App
-1. Erfrage deine persönliche PIN
+1. Erfrage deine persönliche PIN (bei Christian Wurll oder Philipp Augenstein)
 2. Die Getränkeliste App findest du
    - Im Internet: https://iqmeta.com/gliste
    - Im Apple App Store (iOS): https://itunes.apple.com/de/app/getrankeliste/id1166693139
@@ -83,3 +83,4 @@ erscheint die „Eigene Rufnummer“.
 anschließend übernehmen drücken. Jetzt erscheint „Bitte Hörer abnehmen“.
 - **Wichtig: wenn der Apparat nicht abgemeldet ist, kann er nicht an
 einem anderen Arbeitsplatz angemeldet werden.**
+

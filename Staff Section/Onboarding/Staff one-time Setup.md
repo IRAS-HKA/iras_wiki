@@ -63,7 +63,7 @@ Info unter: https://www.zotero.org/support/sync
   - Klick auf eigenes Profil (ganz oben rechts) → Einstellungen → Sicherheit (links im Menü) → Geräte & Sitzungen
   - Beliebigen App-Namen eingeben und Neues App-Passwort erstellen, kopieren und bei Zotero-Einstellugen einfügen.
 5. ![Fehler beim Laden des Screenshots](Zotero-Einstellungen.png)
-<img src="Staff%20Section/Onboarding/Zotero-Einstellungen.png" alt="Zotero Einstellungen" width="300"/>
+<img src="Zotero-Einstellungen.png" alt="Fehler beim Laden des Screenshots" width="300"/>
    Klick auf "Server prüfen", warten auf Bestätigung
 
 ## Getränke App

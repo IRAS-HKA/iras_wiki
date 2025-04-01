@@ -2,6 +2,7 @@ At Hauptcampus:
 - Meet HR and sign forms / contract
 - Receive rz account details
 - (something about ILIAS)
+- Apply for a key
 
 At LTC:
 - Receive Laptop / Workstation

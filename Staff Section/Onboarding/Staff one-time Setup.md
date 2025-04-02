@@ -19,6 +19,9 @@ Anleitung auf [HKA Website Intern](https://www.h-ka.de/intern/mitarbeitende/orga
 3. Warten auf E-Mail von der Firma Zoom (informiert über Freischaltung der Zoom-Lizenz)
 4. [Zoom Client](https://zoom.us/download) herunterladen.
 
+## ILIAS Account einrichten
+1. tbc
+   
 ## Intranet Profil vervollständigen
 1. [Login](https://www.h-ka.de/intern/login) auf der Hochschulwebsite. (Der Zugriff erfordert eine Verbindung zum Hochschulnetz)
 2. Oben rechts auf den eigenen Namen klicken, das Dropdown-Menü öffnen und „Profil“ auswählen und ausfüllen.

@@ -20,9 +20,9 @@ Anleitung auf [HKA Website Intern](https://www.h-ka.de/intern/mitarbeitende/orga
 4. [Zoom Client](https://zoom.us/download) herunterladen.
 
 ## ILIAS Account einrichten
-Entweder:
-a) Der Account ist bereits aktiviert: rz-Account + rz-Passwort
-b) E-Mail an ilias@h-ka.de mit der Bitte um Aktivierung
+Entweder: <br>
+&emsp;a) Der Account ist bereits aktiviert: rz-Account + rz-Passwort <br>
+&emsp;b) E-Mail an ilias@h-ka.de mit der Bitte um Aktivierung
    
 ## Intranet Profil vervollständigen
 1. [Login](https://www.h-ka.de/intern/login) auf der Hochschulwebsite. (Der Zugriff erfordert eine Verbindung zum Hochschulnetz)

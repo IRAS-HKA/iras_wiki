@@ -72,3 +72,11 @@ Reisebüro der Hochschule:
 - **Die Kundennummer Hochschule Karlsruhe lautet bei CAT Reisebüro: 100180**
 - (bitte auch Geburtsdatum bei Anfrage nennen --  bitte bevorzugt per E-Mail anfragen)
 - Zu Vereinfachung der anschließenden Bezahlung durch die CAR-FIN setzen Sie mich doch bitte in CC bei Ihrem GBT-Schriftverkehr michael.christ@h-ka.de
+- Verbunden mit Urlaubsreise:
+	 - Im Dienstreiseantrag ankreuzen "Die Reise wird mit einer Privat-/Urlaubsreise verbunden"
+	 - wenn Flug erstattet werden soll, müssen entsprechende Vergleichsangebote eingeholt werden:
+		- ein Angebot für den regulären Rückflugtag direkt nach Konferenz
+		- ein Angebot für den Rückflugtag nach angehängtem Privaturlaub
+		- die Differenz muss selbst bezahlt werden.
+		- Für den Zeitraum des Privaturlaubs anschließend oder davor muss Hotel selbst bezahlt werden.
+- Sie haben die Möglichkeiten, für größere Reisen einen Vorschuss zu beantragen. Diesen können Sie formlos zusammen mit einer Kopie des genehmigten Antrages, einer Übersicht der zu erwartenden Kosten und unter Angabe der Bankverbindung bei der Personalabteilung einreichen.

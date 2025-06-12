@@ -80,3 +80,6 @@ Reisebüro der Hochschule:
 		- die Differenz muss selbst bezahlt werden.
 		- Für den Zeitraum des Privaturlaubs anschließend oder davor muss Hotel selbst bezahlt werden.
 - Sie haben die Möglichkeiten, für größere Reisen einen Vorschuss zu beantragen. Diesen können Sie formlos zusammen mit einer Kopie des genehmigten Antrages, einer Übersicht der zu erwartenden Kosten und unter Angabe der Bankverbindung bei der Personalabteilung einreichen.
+
+## Neue Hauspostumschläge beantragen
+- Formlose Email an Peter Herlan (Poststelle) peter.herlan@h-ka.de

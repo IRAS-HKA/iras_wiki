@@ -51,11 +51,20 @@ Alle Dokumente der Personalabteilung [HKA Intern](https://www.h-ka.de/intern/mit
 	2. Unterschrift reicht digital
 	3. Reise genehmigt unterschreiben von Christian/Björn
 	4. Dann an per Hauspost an CAR Fr. Förderer
-2. [Abrechnung der Dienstreise](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDMwODIwODksImV4cCI6MTc0MzE3MjA4OSwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX2ludGVybl9NaXRhcmJlaXRlci9IS0FfVlctUEVfRm9ybXVsYXJfQWJyZWNobnVuZ19EaWVuc3RGb3J0YmlsZHVuZ3NyZWlzZV8yMDIyX2dlc2NodWV0enQuZG9jIiwicGFnZSI6MzEyMX0.Q8wu00LlJGnhy0QtqgA2JJFdtDDnjrNxLm9cELx0AOQ/HKA_VW-PE_Formular_Abrechnung_DienstFortbildungsreise_2022_geschuetzt.doc)
+2. EU Ausland
+   	1. Erst Antrag an International Office schicken, danach an CAR Fr. Förderer
+   	2. A1 Antrag Fragebogen ausfüllen (42103a) [LBV](https://lbv.landbw.de/vordrucke#vordrucknummer=42103)
+   	3. A1 Antrag und genehmigte Dienstreise an CAR Personal schicken (Email reicht)
+3. Nicht-EU Ausland
+   	1. Erst Antrag an International Office schicken, danach an CAR Fr. Förderer
+   	2. DVKA Antrag ausfüllen (Länderspezifisch) [DVKA](https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/entsendung-ins-ausland/entsendung/)
+   	3. Antrag an CAR Personal (Email reicht)
+4. [Abrechnung der Dienstreise](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDMwODIwODksImV4cCI6MTc0MzE3MjA4OSwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0Niw0NTE1NCw0NTIwNF0sImZpbGUiOiJmaWxlYWRtaW4vSG9jaHNjaHVsZV9LYXJsc3J1aGVfSEtBL19pbnRlcm4vSEtBX2ludGVybl9NaXRhcmJlaXRlci9IS0FfVlctUEVfRm9ybXVsYXJfQWJyZWNobnVuZ19EaWVuc3RGb3J0YmlsZHVuZ3NyZWlzZV8yMDIyX2dlc2NodWV0enQuZG9jIiwicGFnZSI6MzEyMX0.Q8wu00LlJGnhy0QtqgA2JJFdtDDnjrNxLm9cELx0AOQ/HKA_VW-PE_Formular_Abrechnung_DienstFortbildungsreise_2022_geschuetzt.doc)
 	- Dienstreiseabrechnung
 	- Alle Rechnungen
 	- Originaler Dienstreiseantrag
 	- Per Hauspost an Personal / Silke Wieland
+	- Falls am Wochenende gereist oder konferiert wurde den genehmigten Dienstreiseantrag an Zeiterfassung schicken um als Urlaubstage zurückzuholen.
 
 ## Dienstreise buchen
 Reisebüro der Hochschule:  

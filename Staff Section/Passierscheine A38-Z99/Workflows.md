@@ -92,3 +92,6 @@ Reisebüro der Hochschule:
 
 ## Neue Hauspostumschläge beantragen
 - Formlose Email an Peter Herlan (Poststelle) peter.herlan@h-ka.de
+
+## Promotionsvereinbarung mit der HKA als Kooperative Einrichtung
+- [Formular](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Satzungen_Ordnungen/HKA_ZH_Betreuungsvereinbarung_Promotionsvorhaben_V1_4_2021-12-13.pdf) ausfüllen.

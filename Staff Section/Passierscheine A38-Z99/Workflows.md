@@ -1,5 +1,5 @@
 ## HiWi Anstellung
-1. Dokument Vorlage in [Teams](https://hskarlsruhede.sharepoint.com/:x:/s/RobolabLeitung2/EbJWB03mmo1Fv7JWRw2o6L0BQYY6FIoDLSO2XTvdjUWL_g?e=FkykQq)
+1. Dokument Vorlage in [Excel](https://hskarlsruhede.sharepoint.com/:x:/s/RobolabLeitung2/ETjn0_7NMwxHoyLncSwc-xIBrnFiTc9n86cdlSw5loQAQQ?e=D1phgO) [Teams Ordner](https://hskarlsruhede.sharepoint.com/:f:/s/RobolabLeitung2/EkCm9s6wMTNJiSGUB8ibxlABhReuVROPwwAbBZU6741FMw?e=uroR0d)
 2. Projekt: Robot-Hub-Transfer
 	CAR-Nr.: 1039
 	SAP/PSP Element: 8056 20000 77501

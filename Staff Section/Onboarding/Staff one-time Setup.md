@@ -1,5 +1,5 @@
 ## EBI Schlüsselausgabe
-1. PDF herunterladen und ausfüllen https://www.h-ka.de/ticket#c72431
+1. PDF herunterladen und ausfüllen [HKA Intern Ticketsystem](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-gebaeude-infrastruktur#c82813) [pdf](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-EBI/HKA_VW-EBI_Zutrittsmedium-Antrag_Mitarbeiter-Studenten_2025-01-08.pdf)
 2. nur für Studis: [allgmeine Sicherheitsunterweisung](https://ilias.h-ka.de/ilias.php?ref_id=596300&cmd=infoScreen&cmdClass=ilobjtestgui&cmdNode=y2:sk&baseClass=ilrepositorygui&ref_id=596300) auf ILIAS durchführen und für Studis, die im Labor arbeiten zusätzlich den [spezifischen Teil für Robotik](https://ilias.h-ka.de/ilias.php?ref_id=601507&cmd=view&cmdClass=ilrepositorygui&cmdNode=y2&baseClass=ilrepositorygui)
 3. Unterweisender und unterwiesene Person auf Formular unterschreiben, dass Sicherheitsunterweisung durchgeführt wurde 
 4. Christian Wurll unterschreiben

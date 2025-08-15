@@ -6,7 +6,7 @@ This document lists the most important links and information new students need a
 
 #### Tasks for the Supervisor
 
-- [ ] Add the student with their student ID to the [HKA 2030+ Forum](https://ilias.h-ka.de/ilias.php?ref_id=596294&cmdClass=ilcoursemembershipgui&cmdNode=y0:mu:91&baseClass=ilRepositoryGUI)
+- [ ] Add the student with their student ID to the [HKA 2030+ Forum](https://ilias.h-ka.de/ilias.php?ref_id=596294&cmdClass=ilcoursemembershipgui&cmdNode=yb:n5:90&baseClass=ilRepositoryGUI)
 - [ ] Copy the formatted Mail-Block below
 
 #### Email Form

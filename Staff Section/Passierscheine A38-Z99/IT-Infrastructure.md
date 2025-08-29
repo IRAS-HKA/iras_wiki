@@ -1,3 +1,7 @@
+## Setup HsKA-8021x
+- Username: {yourRzHandle}@iras-wlan.h-ka.de
+- Password: {yourRzPassword}
+
 ## Setup Eduroam
 To establish a connection with the Eduroam Wlan network you need the following security configuration:
 - **Security**: WPA & WPA2 Enterprise

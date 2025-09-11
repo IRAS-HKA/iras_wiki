@@ -13,7 +13,7 @@ This document lists the most important links and information new students need a
 
 > Hallo {+STUDENT+}, <br>
 > herzlich willkommen am Institut für Robotik und Autonome Systeme (**IRAS**). <br>
-> Bitte machen Sie sich mit dem Inhalt der folgenden Links und Hinweise vertraut um erfolgreich mit unserer Infrastruktur zu arbeiten.
+> Bitte machen Sie sich mit dem Inhalt der folgenden Links und Hinweise vertraut, um erfolgreich mit unserer Infrastruktur zu arbeiten.
 >
 > **Allgemeine Informationen**
 >
@@ -49,7 +49,7 @@ This document lists the most important links and information new students need a
 
 #### Email Form
 >
-> - Sollten Sie noch Zugang zum Gebäude benötigen (Transponder), finden Sie hier das notwendige Formular [HKA Intern Ticketsystem](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-gebaeude-infrastruktur#c82813), [pdf](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-EBI/HKA_VW-EBI_Zutrittsmedium-Antrag_Mitarbeiter-Studenten_2025-01-08.pdf). Bitte beachten Sie die aufgelisteten Ausfüll-Hinweise. Den ausgefüllten Antrag lassen Sie bitte Ihrem jeweiligen Schließbeauftragten der Fakultät zukommen, zum Beispiel über das Fakultätssekretariat oder ein offenes Postfach. Im Anschluss müssen Sie das Dokument mit allen Unterschriften an service.ebi@h-ka.de senden. Sie bekommen daraufhin eine Nachricht sobald der Transponder abgehohlt werden kann. 
+> - Sollten Sie noch Zugang zum Gebäude benötigen (Transponder), finden Sie hier das notwendige Formular [HKA Intern Ticketsystem](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-gebaeude-infrastruktur#c82813), [pdf](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-EBI/HKA_VW-EBI_Zutrittsmedium-Antrag_Mitarbeiter-Studenten_2025-01-08.pdf). Bitte beachten Sie die aufgelisteten Ausfüll-Hinweise. Den ausgefüllten Antrag lassen Sie bitte Ihrem jeweiligen Schließbeauftragten der Fakultät zukommen, zum Beispiel über das Fakultätssekretariat oder ein offenes Postfach. Im Anschluss müssen Sie das Dokument mit allen Unterschriften an service.ebi@h-ka.de senden. Sie bekommen daraufhin eine Nachricht sobald der Transponder abgeholt werden kann. 
 
 <details>
 <summary>Expand this section for <b>Final Thesis</b> student</summary>

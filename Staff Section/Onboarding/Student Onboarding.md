@@ -70,19 +70,19 @@ This document lists the most important links and information new students need a
 >
 > - Sollten Sie sich dafür entscheiden Ihre Arbeit mit dem Textverarbeitungstool LaTeX zu verfassen, verwenden Sie bitte [diese](https://www.w.hs-karlsruhe.de/gitlab/iras/common/instructions/thesis_template) Vorlage. Unter diesem Link finden Sie ebenfalls eine kurze Einweisung über die Nutzung des Templates.
 >
-> - Tragen Sie sich, sobald der Titel Ihrer Arbeit feststeht, in die [Thesis Datenbank](https://ilias.h-ka.de/ilias.php?ref_id=324333&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=xm:mu:a7&baseClass=ilrepositorygui) ein.
+> - Tragen Sie sich, sobald der Titel Ihrer Arbeit feststeht, in die [Thesis Datenbank](https://ilias.h-ka.de/ilias.php?ref_id=324333&cmd=show&cmdClass=ildclrecordlistgui&cmdNode=yb:nc:aa&baseClass=ilrepositorygui#il_mhead_t_focus) ein.
 >
 > - Berücksichtigen Sie bereits zu Beginn die [Checkliste](https://hskarlsruhede.sharepoint.com/:b:/s/Robolab/Ee9pjQr6otVHpj7X3wMWzh4BvwtZui44jagwdhSazmcunA?e=teCdCD) für den Abgabeprozess Ihrer Arbeit. Wurden darauf nicht alle für Sie relevanten Punkte von Ihrem Betreuer abgehakt, erhalten Sie keine Abschlussnote.
 >
 > - Beachten Sie zudem die folgenden Hinweise für den Ablauf Ihrer Abschlussarbeit:
 >   1. Erstellen Sie frühzeitig einen Zeitplan, den Sie gerne regelmäßig im Verlauf Ihrer Arbeit anpassen können.
 >   2. Erstellen Sie regelmäßig projektbegleitend Dokumente. Diese helfen Ihnen bei der Erstellung der finalen Arbeit, und dienen der einfachen Kommunikation mit Kolleginnen und Kollegen oder Betreuern.
->   3. Behalten Sie im Hinterkopf, dass das Erstellen von Wiki Seiten bzw. Bedienungsanleitungen zu Ihren Pflichten gehört. Eine kurze Anleitung über das Erstellen von GitLab Markdown Seiten finden Sie [hier](https://www.w.hs-karlsruhe.de/gitlab/iras/common/wiki/-/blob/wiki/1-Guidelines_for_Students/1.4-Introductions/markdown_instructions.md)
->   4. Planen Sie genügend Zeit ein zum Erstellen und Optimieren ihrer Abschlussarbeit.
->   5. Nutzen Sie Ihre Kolleginnen und Kollegen zum Korrekturlesen.
->   6. Dokumentieren Sie Ihre Ergebnisse ggf. auch durch ein Video. Insbesondere falls Sie die Ergebnisse Ihrer Arbeit, nur vor Ort präsentieren können. Eine kurze Absprache mit dem Betreuer wird empfohlen.
->   7. Für Masterarbeiten gilt: Erstellen Sie ein Poster über Ihre Arbeit. Vorhandene Poster sowie die Vorlage finden Sie im [Poster-Ordner](https://hskarlsruhede.sharepoint.com/:p:/s/Robolab/ER-AxT6xZs5BqQh7o6m-VJ8BXK30JFSHj17I8o4Ve2NN2Q?e=ZGdg8f)
->   8. Bereiten Sie die Übergabe Ihrer Abschlussarbeit sorgfältig vor und vereinbaren Sie frühzeitig einen Termin zur Übergabe.
+>   3. Behalten Sie im Hinterkopf, dass das Erstellen von Wiki Seiten bzw. Bedienungsanleitungen zu Ihren Pflichten gehört. Eine kurze Anleitung über das Erstellen von GitLab Markdown Seiten finden Sie [hier](https://github.com/IRAS-HKA/iras_wiki/blob/main/Student%20Section/Instructions/markdown_instructions.md)
+>   5. Planen Sie genügend Zeit ein zum Erstellen und Optimieren ihrer Abschlussarbeit.
+>   6. Nutzen Sie Ihre Kolleginnen und Kollegen zum Korrekturlesen.
+>   7. Dokumentieren Sie Ihre Ergebnisse ggf. auch durch ein Video. Insbesondere falls Sie die Ergebnisse Ihrer Arbeit, nur vor Ort präsentieren können. Eine kurze Absprache mit dem Betreuer wird empfohlen.
+>   8. Für Masterarbeiten gilt: Erstellen Sie ein Poster über Ihre Arbeit. Vorhandene Poster sowie die Vorlage finden Sie im [Poster-Ordner](https://hskarlsruhede.sharepoint.com/:p:/s/Robolab/ER-AxT6xZs5BqQh7o6m-VJ8BXK30JFSHj17I8o4Ve2NN2Q?e=ZGdg8f)
+>   9. Bereiten Sie die Übergabe Ihrer Abschlussarbeit sorgfältig vor und vereinbaren Sie frühzeitig einen Termin zur Übergabe.
 >
 </details>
 

@@ -29,7 +29,19 @@ This document lists the most important links and information new students need a
 >
 > - Für die Benutzung der Kaffeemaschine ist ein Account zur Abrechnung notwendig. Die Getränkeliste App kann entweder auf dem Handy installiert werden oder auf dem Tablet neben der Kaffeemaschine verwendet werden. Zu Erstellung eines Accounts muss eine Email mit dem IZ-Kürzel an [Herr Philipp Augenstein](https://www.h-ka.de/die-hochschule-karlsruhe/organisation-personen/personen-a-z/person/philipp-augenstein) geschickt werden. Es muss vom Studierenden sichergestellt werden, dass offene Zahlungen bis zum Weggang beglichen werden!
 >
-> - Für das Arbeiten in unseren Räumlichkeiten ist eine Sicherheitsunterweisung unbedingt **notwendig**. Bitte führen Sie die folgenden 3 Tests durch: [HKA Allgemein](https://ilias.h-ka.de/goto.php?target=cat_956035&client_id=HSKA), [IRAS Allgemein](https://ilias.h-ka.de/ilias.php?ref_id=596300&cmd=infoScreen&cmdClass=ilobjtestgui&cmdNode=yb:st&baseClass=ilrepositorygui&ref_id=596300) und [Roboterlabor spezifisch](https://ilias.h-ka.de/ilias.php?ref_id=596301&cmd=infoScreen&cmdClass=ilobjtestgui&cmdNode=yb:st&baseClass=ilrepositorygui&ref_id=596301). Die Beantragung eines Schlüssels ist auch nur möglich mit erfolgreicher Durchführung der Sicherheitsunterweisung.
+>
+> **Ihre ersten Aufgaben:**
+>
+> 1. Für das Arbeiten in unseren Räumlichkeiten ist eine Sicherheitsunterweisung unbedingt **notwendig**. Bitte führen Sie die folgenden 3 Tests durch: [HKA Allgemein](https://ilias.h-ka.de/goto.php?target=cat_956035&client_id=HSKA), [IRAS Allgemein](https://ilias.h-ka.de/ilias.php?ref_id=596300&cmd=infoScreen&cmdClass=ilobjtestgui&cmdNode=yb:st&baseClass=ilrepositorygui&ref_id=596300) und [Roboterlabor spezifisch](https://ilias.h-ka.de/ilias.php?ref_id=596301&cmd=infoScreen&cmdClass=ilobjtestgui&cmdNode=yb:st&baseClass=ilrepositorygui&ref_id=596301). Die Beantragung eines Schlüssels ist nur möglich mit erfolgreicher Durchführung der Sicherheitsunterweisungen.
+>
+> 2. Zugang zu Teams: Erstellen Sie sich bitte einen Microsoft Teams Account. Das erleichtert die Kommunikation, und Sie bekommen Zugriff auf viele wichtige Dokumente. Die Aktivierung des Hochschul-Accounts können Sie [hier](https://www.microsoft.com/de-de/education/products/office) vornehmen (private Accounts können nicht hinzugefügt werden). Sobald Sie dies erledigt haben beantragen Sie mit [diesem Link](https://teams.microsoft.com/l/team/19%3a35d27c9a7d6b4e9f8dc744c32236b357%40thread.tacv2/conversations?groupId=9453382d-434b-46dd-92e7-11df9184ed4f&tenantId=a31a26ed-e288-49e8-8a94-cf238ac22662) die Aufnahme in das `iRAS Students` Team. Ein Mitarbeiter wird Sie in Kürze hinzufügen.
+>
+> 3. Sollten Sie noch Zugang zum Gebäude benötigen (Transponder), finden Sie hier das notwendige Formular [HKA Intern Ticketsystem](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-gebaeude-infrastruktur#c82813), [pdf](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-EBI/HKA_VW-EBI_Zutrittsmedium-Antrag_Mitarbeiter-Studenten_2025-01-08.pdf).
+>     1. Bitte füllen sie den oberen Teil mit ihren persönlichen Daten aus.
+>     2. Unterschreiben Sie, dass Sie die Sicherheitsunterweisung durchgeführt haben bei "Unterschrift unterwiesene Person". Eine digitale Unterschrift genügt.
+>     3. Senden Sie das unterschrieben PDF sowie die Zertifikate der Sicherheitsunterweisungen aus (1.) per E-Mail oder Teams an ihren Betreuer.
+>     4. Sobald Sie das unterschriebene Formular zurück bekommen haben, senden Sie dieses an service.ebi@h-ka.de
+>     5. Nach Aufforderung von EBI holen Sie den Transponder ab.
 >
 > **Studenten Wiki**
 >
@@ -39,17 +51,7 @@ This document lists the most important links and information new students need a
 > 2. [Github](https://github.com/IRAS-HKA) - Fertige (ROS2) Softwarepakete, Templates
 > 3. [TP ILIAS Wiki](https://ilias.h-ka.de/goto.php?target=wiki_537777_Herzlich_Willkommen_im_Wiki_der_neuen_Au%C3%9Fenstelle_H-KA_2030%2B_%2F_TP) - Informationen und Prozesse zum Standort Technologiepark
 >
-> - Zugang zu Teams: Erstellen Sie sich bitte einen Microsoft Teams Account. Das erleichtert die Kommunikation, und Sie bekommen Zugriff auf viele wichtige Dokumente. Die Aktivierung des Hochschul-Accounts können Sie [hier](https://www.microsoft.com/de-de/education/products/office) vornehmen (private Accounts können nicht hinzugefügt werden). Sobald Sie dies erledigt haben beantragen Sie mit [diesem Link](https://teams.microsoft.com/l/team/19%3a35d27c9a7d6b4e9f8dc744c32236b357%40thread.tacv2/conversations?groupId=9453382d-434b-46dd-92e7-11df9184ed4f&tenantId=a31a26ed-e288-49e8-8a94-cf238ac22662) die Aufnahme in das `iRAS Students` Team. Ein Mitarbeiter wird Sie in Kürze hinzufügen.
 
-## Access to the Building
-
-#### Tasks for the Supervisor
-
-- [ ] If the student does not already have building access (default), copy the formatted Mail-Block below
-
-#### Email Form
->
-> - Sollten Sie noch Zugang zum Gebäude benötigen (Transponder), finden Sie hier das notwendige Formular [HKA Intern Ticketsystem](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-gebaeude-infrastruktur#c82813), [pdf](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-EBI/HKA_VW-EBI_Zutrittsmedium-Antrag_Mitarbeiter-Studenten_2025-01-08.pdf). Bitte beachten Sie die aufgelisteten Ausfüll-Hinweise. Den ausgefüllten Antrag lassen Sie bitte Ihrem jeweiligen Schließbeauftragten der Fakultät zukommen, zum Beispiel über das Fakultätssekretariat oder ein offenes Postfach. Im Anschluss müssen Sie das Dokument mit allen Unterschriften an service.ebi@h-ka.de senden. Sie bekommen daraufhin eine Nachricht sobald der Transponder abgeholt werden kann. 
 
 <details>
 <summary>Expand this section for <b>Final Thesis</b> student</summary>

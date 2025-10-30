@@ -50,11 +50,12 @@ Alle Dokumente der Personalabteilung [HKA Intern](https://www.h-ka.de/intern/mit
 	1. Kostenvoranschlag eintragen (wichtig)
 	2. Unterschrift reicht digital
 	3. Reise genehmigt unterschreiben von Christian/Björn
-	4. Dann an per Hauspost an CAR Fr. Förderer
+   	4. Immer Scan von Dienstreiseantrag machen (Hauspost = Schwarzes Loch)
+	5. Dann an per Hauspost an CAR Fr. Förderer
 2. EU Ausland
-   	1. Erst Antrag an International Office schicken, danach an CAR Fr. Förderer
-   	2. A1 Antrag Fragebogen ausfüllen (42103a) [LBV](https://lbv.landbw.de/vordrucke#vordrucknummer=42103)
-   	3. A1 Antrag und genehmigte Dienstreise an CAR Personal schicken (Email reicht)
+   	2. Zuerst Antrag an International Office schicken, danach an CAR Fr. Förderer
+   	3. A1 Antrag Fragebogen ausfüllen (42103a) [LBV](https://lbv.landbw.de/vordrucke#vordrucknummer=42103)
+   	4. A1 Antrag und genehmigte Dienstreise (es reicht die Unterschrift von Christian/Björn) an CAR Personal schicken (Email reicht)
 3. Nicht-EU Ausland
    	1. Erst Antrag an International Office schicken, danach an CAR Fr. Förderer
    	2. DVKA Antrag ausfüllen (Länderspezifisch) [DVKA](https://www.dvka.de/de/arbeitgeber-erwerbstaetige/antraege-finden/entsendung-ins-ausland/entsendung/)

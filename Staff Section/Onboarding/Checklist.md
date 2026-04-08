@@ -1,10 +1,10 @@
 # Checklist Onboarding neue Mitarbeiter
 
-Das solltest Du von der Personalabteilung bekommen haben:
+### Das solltest Du von der Personalabteilung bekommen haben:
 - Stempelkarte und Mitarbeiter-Ausweis
 - RZ-Account
 
-Das sollte deine Fachabteilung vorbereitet haben:
+### Das sollte deine Fachabteilung vorbereitet haben:
 - Arbeitsplatz (Bildschirm, Tastatur, Maus, evtl. Telefon)
 - Laptop (Formular für Beantragung)
 - Antrag für Gebäudezugang vorausfüllen
@@ -13,15 +13,7 @@ Das sollte deine Fachabteilung vorbereitet haben:
 - In E-Mail-Verteiler (Team.IRAS) aufgenommen werden
 - IRAS-Ldap Account anlegen (z. B. für GitLab) 
 
-[RZ-Handout](rz.h-ka.de/RZ-Introduction-Handout.pdf):
-- Zugang zu E-Mail überprüfen
-- Zugang zu [SmartTime](https://ze01.hs-karlsruhe.de/SmartTime/) überprüfen
-- VPN-Zugang einrichten (Zwei-Faktor-Authentifizierung)
-- W-LAN einrichten (eduroam)
-- Zoom Account einrichten (E-Mail an Benutzerberatung versenden, um Prozess anzustoßen)
-- BW Sync&Share
-
-Sonstige To-do's:
+### Weitere To-do's für Dich:
 - [Antrag für Gebäudezugang](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-EBI/HKA_VW-EBI_Zutrittsmedium-Antrag_Mitarbeiter-Studenten_2025-01-08.pdf) abschicken
 - Transponder abholen
 - Telefon anmelden 
@@ -35,12 +27,20 @@ Sonstige To-do's:
 - [E-Mail Signatur](https://www.h-ka.de/intern/mitarbeitende/organisieren/hochschulweite-prozesse/prozesse-corporate-design-corporate-identity#c48591)
 - E-Mail Zertifikat
 - Sicherheitsunterweisung ([Allgemeine Sicherheitsunterweisung für Mitarbeiter](https://ilias.h-ka.de/ilias.php?ref_id=975321&cmd=infoScreen&cmdClass=ilobjtestgui&cmdNode=st&baseClass=ilobjtestgui&ref_id=975321) und [Laboratoriumsordnung](https://ilias.h-ka.de/ilias.php?ref_id=601507&cmd=view&cmdClass=ilrepositorygui&cmdNode=yb&baseClass=ilrepositorygui))
-- Eintragen in Liste für Kaffeemaschinenreinigung 
+- Eintragen in Liste für Kaffeemaschinenreinigung
 
-Für Doktoranden:
+- [RZ-Handout](rz.h-ka.de/RZ-Introduction-Handout.pdf):
+  - Zugang zu E-Mail überprüfen
+  - Zugang zu [SmartTime](https://ze01.hs-karlsruhe.de/SmartTime/) überprüfen
+  - VPN-Zugang einrichten (Zwei-Faktor-Authentifizierung)
+  - W-LAN einrichten (eduroam)
+  - Zoom Account einrichten (E-Mail an Benutzerberatung versenden, um Prozess anzustoßen)
+  - BW Sync&Share
+
+### Für Doktoranden:
 - [FRIDA](https://frida.h-ka.de/) Account 
 
-Optional: 
+### Optional für alle Mitarbeiter: 
 - Schließfach am LTC
 - Account [Getränke-App](https://iqmeta.com/gliste)
 - [Vertrauensarbeitszeit beantragen](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-PE/Antrag_VAZ.pdf)

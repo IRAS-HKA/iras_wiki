@@ -47,3 +47,5 @@
 - [ ] Beitritt IRAS/IRP-WhatsApp Gruppe 
 
 Hier findest du die Information, um die Punkte abzuarbeiten: [Wiki](https://github.com/IRAS-HKA/iras_wiki/tree/main)
+
+Hier ist die Checkliste als [pdf](checklist.pdf) zum ausdrucken.

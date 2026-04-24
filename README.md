@@ -9,7 +9,7 @@
 ## Ersteinrichtung
 - [Internet](<Ersteinrichtung/Internet.md>)
 - [E-Mail](<Ersteinrichtung/E-Mail.md>)
-- [Gebäudezugang](Ersteinrichtung/Gebäudezugang)
+- [Gebäudezugang](<Ersteinrichtung/Gebäudezugang.md>)
 - [Teams Account](<Ersteinrichtung/Teams Account.md>)
 - [Telefon](<Ersteinrichtung/Telefon.md>)
 - [BW Sync&Share](<Ersteinrichtung/BW SyncShare.md>)

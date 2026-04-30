@@ -8,7 +8,7 @@
 - [ ] Arbeitsplatz (Bildschirm, Tastatur, Maus, evtl. Telefon)
 - [ ] Laptop (Formular für Beantragung) → Notizen für uns: Formular existiert. MA braucht RZ-Kürzel und E-Mail-Adresse. Björn und/oder Christian müssen Formular unterschreiben und abschicken. Björn hat das Formular, ich habe es aber im Intranet nicht gefunden. Deshalb noch nicht verlinkt.
 - [ ] Antrag für Gebäudezugang vorausfüllen
-- [ ] In [LTC-ILIAS-Kurs](https://ilias.h-ka.de/ilias.php?ref_id=596294&cmdClass=ilrepositorygui&cmdNode=yb&baseClass=ilrepositorygui) (ILIAS - Hochschule Karlsruhe (HKA): 09 Interner Bereich H-KA 2030+ - TP) aufgenommen werden
+- [ ] In [LTC-ILIAS-Kurs](https://ilias.h-ka.de/ilias.php?ref_id=596294&cmdClass=ilrepositorygui&cmdNode=yb&baseClass=ilrepositorygui) (ILIAS - Hochschule Karlsruhe (HKA): 09 Interner Bereich H-KA 2030+ - TP) aufgenommen werden.
 - [ ] In E-Mail-Verteiler (Team.IRAS) aufgenommen werden → Anfrage an bjoern.hein@h-ka.de
 - [ ] IRAS-Ldap Account anlegen (z. B. für GitLab)
  

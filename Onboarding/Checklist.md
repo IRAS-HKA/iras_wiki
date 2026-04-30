@@ -15,13 +15,13 @@
 ### Weitere To-do's für Dich:
 - [ ] [Antrag für Gebäudezugang](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-EBI/HKA_VW-EBI_Zutrittsmedium-Antrag_Mitarbeiter-Studenten_2025-01-08.pdf) abschicken
 - [ ] Transponder abholen
-- [ ] Telefonnummer beantragen → E-Mail an Abteilung Telekommunikation (tk.rz@h-ka.de) oder anrufen unter Tel.: 925-2525 bzw. direkt an Herrn Roman Moldauer richten (Roman.Moldauer@h-ka.de; Tel.: 925-2314)
+- [ ] Telefonnummer beantragen → E-Mail an Abteilung Telekommunikation (tk.rz@h-ka.de) oder anrufen unter Tel.: 925-2525 bzw. direkt an Herrn Roman Moldauer richten (roman.moldauer@h-ka.de; Tel.: 925-2314)
 - [ ] Telefon anmelden [Anleitung](https://www.h-ka.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3Nzc1NDM3NzgsImV4cCI6MTc3NzYzMzc3OCwidXNlciI6MzQ3MjIsImdyb3VwcyI6WzAsLTIsMTY0NiwxODU1LDQ1MTU0LDQ1MjA0LDQ1Mjk0LDQ1Mjk2XSwiZmlsZSI6ImZpbGVhZG1pbi9Ib2Noc2NodWxlX0thcmxzcnVoZV9IS0EvX2ludGVybi9IS0FfaW50ZXJuX01pdGFyYmVpdGVyL0hLQV9CRS1SWl9Eb2t1bWVudGVfVEstQW5sZWl0dW5nLnBkZiIsInBhZ2UiOjQ4MjR9.scJkeBqoybjArTZTFYQ552_mOjJ8iSX5ox4HEEL_QoI/HKA_BE-RZ_Dokumente_TK-Anleitung.pdf)
 - [ ] Zugang zu [ILIAS](https://ilias.h-ka.de) überprüfen
 - [ ] Zugang zu [RaumZeit](https://raumzeit.hka-iwi.de) überprüfen
 - [ ] [MS Teams Account einrichten](https://www.microsoft.com/de-de/education/products/office?market=de)
 - [ ] In [IRAS-Team](https://teams.microsoft.com/l/team/19%3A993e12e777504fe780588b16052b3ae6%40thread.tacv2/conversations?groupId=0ef915a4-317e-4f97-bf5d-da88636a2912&tenantId=a31a26ed-e288-49e8-8a94-cf238ac22662) (und Projekt-Teams) aufgenommen werden (Teams Account muss eingerichtet sein)
-- [ ] [Vertrauensarbeitszeit beantragen](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-PE/Antrag_VAZ.pdf)
+- [ ] [Vertrauensarbeitszeit](https://www.h-ka.de/fileadmin/Hochschule_Karlsruhe_HKA/Bilder_VW-PE/Antrag_VAZ.pdf) beantragen
 - [ ] [W-Plan](https://wplan.h-ka-w.de/wplan/) Account einrichten
 - [ ] LAN-Zugang prüfen (in W1 Netz eintragen lassen → E-Mail an: yongzhou.zhang@h-ka.de)
 - [ ] Profil im [Intranet](https://www.h-ka.de/intern) aktualisieren
